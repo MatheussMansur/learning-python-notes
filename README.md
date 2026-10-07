@@ -13,3 +13,4 @@ One folder per module. Each folder has my notes and the exercises I solved.
 | 05 | Libraries |
 
 Run any exercise with `python <file>.py` (Python 3.10+).
+Module 5 needs `pip install -r requirements.txt`.
